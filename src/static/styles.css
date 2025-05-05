@@ -92,6 +92,10 @@ section h3 {
   color: #555;
 }
 
+.activity-card ul {
+  margin-left: 30px;
+}
+
 .form-group {
   margin-bottom: 20px;
 }
